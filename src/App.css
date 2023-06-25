@@ -1,0 +1,11 @@
+body{
+  background-color: wheat;
+}
+.container{
+  width: 680px;
+  height:650px;
+  background-color: white;
+  margin-left: 400px;
+  border-radius: 10px;
+  overflow-y: scroll;
+}
